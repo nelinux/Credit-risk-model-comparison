@@ -12,7 +12,7 @@
 | KNN | 0.576 | 0.545 | 0.552 | 0.155 |
 
 ## 📊 Live Dashboard
-👉 **[View Dashboard](https://your-username.github.io/credit-risk-comparison/)**
+👉 👉 **[View Dashboard](https://nelinux.github.io/Credit-risk-model-comparison/)**
 
 ## 🚀 Run Locally
 ```bash
